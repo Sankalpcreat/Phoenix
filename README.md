@@ -2,6 +2,12 @@
 
 Phoenix Mobile is an Android-first client for a local Phoenix backend. The phone app does not bundle the backend inside the APK. You run the backend on your computer, then connect the phone to it over your local network.
 
+## Preview
+
+<p align="center">
+  <img src="./docs/phoenix-mobile-preview.png" alt="Phoenix Mobile running on Android" width="360" />
+</p>
+
 This repo contains:
 
 - the Expo / React Native mobile app
